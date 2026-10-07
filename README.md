@@ -15,4 +15,4 @@ src/
 └── ...
 ```
 
-Each exercise directory contains the corresponding solution notebooks and any additional files required for the exercise.
+Each exercise directory contains the corresponding solution notebooks.
